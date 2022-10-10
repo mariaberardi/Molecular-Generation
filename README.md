@@ -2,7 +2,8 @@
 
 This repository contains files from our molecular generation project. 
 
-# Instructions to run the gnn.py file (containing implementation of basic graph neural networks):
+# Instructions to run the gnn.py file 
+(containing implementation of basic graph neural networks):
 
 Create a conda environment: run
 
@@ -13,7 +14,9 @@ conda activate rl_vae
 conda install pytorch torchvision torchaudio -c pytorch
 
 pip install torch-scatter -f https://data.pyg.org/whl/torch-${TORCH}+${CUDA}.html
+
 pip install torch-sparse -f https://data.pyg.org/whl/torch-${TORCH}+${CUDA}.html
+
 pip install torch-geometric
 
 pip install seaborn
