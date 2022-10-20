@@ -1,6 +1,6 @@
 # Molecular-Generation
 
-This repository contains files from our molecular generation project. 
+This repository contains some of the files from a molecular generation project that I am contributing to this semester (Fall 2022). 
 
 # Instructions to run the gnn.py file 
 (containing implementation of basic graph neural networks):
@@ -21,7 +21,7 @@ pip install torch-geometric
 
 pip install seaborn
 
-cd to whatever folder your script is in
+cd ... #path to folder
 
 python gnn.py
 
